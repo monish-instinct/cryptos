@@ -166,6 +166,3 @@ It feels very nice to independently at least partially verify the integrity of t
 ```bash
 $ pytest
 ```
-
-### License
-MIT
